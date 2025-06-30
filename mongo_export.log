@@ -1,0 +1,14 @@
+2025-06-09 04:02:27,952 - INFO - Successfully connected to MongoDB
+2025-06-09 04:02:30,083 - INFO - Exported 2339 documents from 'edos_tests_view' to exports/json/edos_tests_view_20250609_040230.json
+2025-06-09 04:02:30,375 - INFO - Exported 103 documents from 'edos_packages_view' to exports/json/edos_packages_view_20250609_040230.json
+2025-06-09 04:02:30,522 - INFO - Exported 21 documents from 'edos_fetal_medicine_view' to exports/json/edos_fetal_medicine_view_20250609_040230.json
+2025-06-09 04:02:30,685 - INFO - Exported 30 documents from 'edos_home_health_view' to exports/json/edos_home_health_view_20250609_040230.json
+2025-06-09 04:02:30,831 - INFO - Exported 8 documents from 'location_details_view' to exports/json/location_details_view_20250609_040230.json
+2025-06-09 04:02:30,903 - INFO - MongoDB connection closed
+2025-06-10 15:30:35,506 - INFO - Successfully connected to MongoDB
+2025-06-10 15:30:38,088 - INFO - Exported 2339 documents from 'edos_tests_view' to exports/json/edos_tests_view_20250610_153038.json
+2025-06-10 15:30:38,392 - INFO - Exported 103 documents from 'edos_packages_view' to exports/json/edos_packages_view_20250610_153038.json
+2025-06-10 15:30:38,573 - INFO - Exported 21 documents from 'edos_fetal_medicine_view' to exports/json/edos_fetal_medicine_view_20250610_153038.json
+2025-06-10 15:30:38,761 - INFO - Exported 30 documents from 'edos_home_health_view' to exports/json/edos_home_health_view_20250610_153038.json
+2025-06-10 15:30:38,909 - INFO - Exported 8 documents from 'location_details_view' to exports/json/location_details_view_20250610_153038.json
+2025-06-10 15:30:38,988 - INFO - MongoDB connection closed
